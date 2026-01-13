@@ -90,6 +90,7 @@ local Icons = {
     rod       = "rbxassetid://103247953194129",
     fish      = "rbxassetid://97167558235554",
     send      = "rbxassetid://122775063389583",
+    home      = "rbxassetid://86450224791749",
 }
 
 local UserInputService = game:GetService("UserInputService")
